@@ -347,6 +347,7 @@ age,anaemia,creatinine_phosphokinase,diabetes,ejection_fraction,high_blood_press
 *TODO*: Give an overview of the deployed model and instructions on how to query the endpoint with a sample input.
 
 ## Screen Recording
+https://drive.google.com/file/d/1TNfyceAeM0fEzI8p5XyMcwkEY83j-pD2/view?usp=drivesdk
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
