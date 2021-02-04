@@ -15,7 +15,8 @@ Heart Failure Clinical Records
 
 I used Heart Failure Clinical Records from Kaggle
 
-Here's the link to the dataset taken from Kaggle https://github.com/lara-hash/nd00333-capstone/blob/master/heart_failure_clinical_records_dataset.csv
+Here's the link to the dataset taken from Kaggle 
+https://github.com/lara-hash/nd00333-capstone/blob/master/heart_failure_clinical_records_dataset.csv
 age,anaemia,creatinine_phosphokinase,diabetes,ejection_fraction,high_blood_pressure,platelets,serum_creatinine,serum_sodium,sex,smoking,time,DEATH_EVENT
 75,0,582,0,20,1,265000,1.9,130,1,0,4,1
 55,0,7861,0,38,0,263358.03,1.1,136,1,0,6,1
@@ -324,23 +325,23 @@ age,anaemia,creatinine_phosphokinase,diabetes,ejection_fraction,high_blood_press
 *TODO*: Explain the task you are going to be solving with this dataset and the features you will be using for it.
 
 ### Access
-https://github.com/lara-hash/nd00333-capstone/blob/master/AutoMLa95a9ee1914.zip
+https://github.com/udacity/nd00333-capstone
 
 ## Automated ML
-*TODO*: Give an overview of the `automl` settings and configuration you used for this experiment
+https://github.com/udacity/nd00333-capstone
 
 ### Results
-https://github.com/lara-hash/nd00333-capstone/blob/master/AutoMLa95a9ee1914.zip
+https://github.com/udacity/nd00333-capstone
 
 ## Hyperparameter Tuning
 
-https://github.com/lara-hash/nd00333-capstone/blob/master/AutoMLa95a9ee1914.zip
+https://github.com/udacity/nd00333-capstone
 
 ### Results
-https://github.com/lara-hash/nd00333-capstone/blob/master/AutoMLa95a9ee1914.zip
+https://github.com/udacity/nd00333-capstone
 
 ## Model Deployment
-https://github.com/lara-hash/nd00333-capstone/blob/master/AutoMLa95a9ee1914.zip
+https://github.com/udacity/nd00333-capstone
 
 ## Screen Recording
 https://drive.google.com/file/d/1TNfyceAeM0fEzI8p5XyMcwkEY83j-pD2/view?usp=drivesdk
