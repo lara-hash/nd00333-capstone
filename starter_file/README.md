@@ -14,6 +14,8 @@ Heart Failure Clinical Records
 ### Overview
 
 I used Heart Failure Clinical Records from Kaggle
+
+Here's the link to the dataset taken from Kaggle https://github.com/lara-hash/nd00333-capstone/blob/master/heart_failure_clinical_records_dataset.csv
 age,anaemia,creatinine_phosphokinase,diabetes,ejection_fraction,high_blood_pressure,platelets,serum_creatinine,serum_sodium,sex,smoking,time,DEATH_EVENT
 75,0,582,0,20,1,265000,1.9,130,1,0,4,1
 55,0,7861,0,38,0,263358.03,1.1,136,1,0,6,1
@@ -345,10 +347,6 @@ age,anaemia,creatinine_phosphokinase,diabetes,ejection_fraction,high_blood_press
 *TODO*: Give an overview of the deployed model and instructions on how to query the endpoint with a sample input.
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
-- A working model
-- Demo of the deployed  model
-- Demo of a sample request sent to the endpoint and its response
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
